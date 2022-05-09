@@ -1,6 +1,10 @@
 """
 
 Juego: Paint
+Programador 1: Luis José González
+Programador 2: Ricardo Campos Luna
+
+Fecha: 9 / Mayo / 2022
 
 """
 
